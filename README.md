@@ -20,3 +20,6 @@ there are three packages in this project:
 When a class that's calling another needs to know the result of an error check
 - the integer 1 will be returned in the event of an error
 - the integer 0 will be returned if the code does not error 
+
+## Running the program
+This program was built to work on java 7 although it's basic enough that it'll probably run on anything newer. The compiled class files are included in the bin directory although I doubt they run anymore
